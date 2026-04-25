@@ -178,19 +178,24 @@
     <td>Export</td>
   </tr>
   <tr>
+    <td>Gather</td>
     <td>Import</td>
     <td>Initiate</td>
-    <td>Locate</td>
   </tr>
   <tr>
+    <td>Locate</td>
     <td>Queue</td>
     <td>Resize</td>
-    <td>Reveal</td>
   </tr>
   <tr>
+    <td>Reveal</td>
     <td>Revert</td>
     <td>Switch</td>
+  </tr>
+  <tr>
     <td>Toggle</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
