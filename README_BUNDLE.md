@@ -194,8 +194,8 @@
   </tr>
   <tr>
     <td>Toggle</td>
-    <td></td>
-    <td></td>
+    <td>...</td>
+    <td>...</td>
   </tr>
 </table>
 
